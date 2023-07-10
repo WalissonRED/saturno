@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --space-m: clamp(1.69rem, calc(1.6rem + 0.36vw), 1.88rem);
+    --space-2xl: clamp(4.5rem, calc(4.26rem + 0.95vw), 5rem);
+  
+    --white: #ffffff;
+    --rust: #9b2b2e;
+    --grey: #2b4a5c;
+    --bkg: #092636;
+  }
